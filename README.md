@@ -11,7 +11,7 @@ It can:
 3. Browse databases
 4. Provide windows for ADD, UPDATE, DELETE operations.
 ## Not implemented feature
-Despite being an option for switching GUI language, there are no other languages than English implemented.
+There are no other languages than English implemented. Currently the option for switching GUI language does nothing.
 ## Extra files
 The code has two previously created databases for testing purposes:
 1. "Test database.db" - Is the valid test database
